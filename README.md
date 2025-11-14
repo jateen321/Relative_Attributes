@@ -6,6 +6,9 @@
 
 Ranking SVM-based implementation for learning visual attribute rankings from pairwise image comparisons. Achieves **95.81% accuracy** on relative attribute prediction with **81.7% improvement** over binary baseline.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q07v_mnuPoOcVBHONNgNz8xz6K-Xlei9?usp=sharing)
+## Presentation
+
+[Click here to view the presentation](index.html)
 
 ## 🎯 Overview
 
