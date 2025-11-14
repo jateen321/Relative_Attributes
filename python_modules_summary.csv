@@ -1,0 +1,8 @@
+Module,Lines,Purpose,Key_Components
+utils.py,~200,Configuration & utilities,"save_pickle, load_pickle, normalize_features"
+features.py,~400,Feature extraction,"build_gabor_filters, extract_gist_features, extract_color_histogram"
+data_prep.py,~300,Data preparation,"construct_ordered_pairs, prepare_batch_data, split_pairs_train_test"
+ranking_svm.py,~400,Model training,"RankingSVM, BinarySVM"
+evaluation.py,~400,Evaluation metrics,"pairwise_accuracy, compare_ranking_vs_binary, zero_shot_accuracy"
+visualization.py,~350,Visualization,"plot_accuracy_comparison, plot_per_attribute_performance"
+pipeline.py,~500,End-to-end pipeline,RankingAttributesPipeline
